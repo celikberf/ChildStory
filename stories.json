@@ -1,0 +1,94 @@
+{
+  "stories": [
+    {
+      "id": "kucuk-prens",
+      "title": "Küçük Prens",
+      "author": "Antoine de Saint-Exupéry",
+      "coverImageName": "cover_kucukprens",
+      "locale": "tr",
+      "summary": "Küçük bir gezegenin meraklı prensiyle dostluk yolculuğu.",
+      "pages": [
+        { "text": "Küçük bir gezegenin üzerinde yalnız yaşayan meraklı bir prens varmış.", "audioFileName": null },
+        { "text": "Gezegeninde bir gül yetişmiş, prens ona özenle bakarmış.", "audioFileName": null },
+        { "text": "Ama gül biraz kaprisliymiş ve prensi üzermiş.", "audioFileName": null },
+        { "text": "Prens yolculuğa çıkmış ve farklı gezegenlerde ilginç kişilerle tanışmış.", "audioFileName": null },
+        { "text": "En sonunda dostluğun ve sevginin en değerli şey olduğunu öğrenmiş.", "audioFileName": null }
+      ]
+    },
+    {
+      "id": "naneyi-yedik",
+      "title": "Naneyi Yedik Lokantası",
+      "author": "Şermin Yaşar",
+      "coverImageName": "cover_naneyi",
+      "locale": "tr",
+      "summary": "Eğlenceli yemeklerin olduğu sihirli bir lokanta.",
+      "pages": [
+        { "text": "Mahallenin köşesinde rengârenk tabelalı bir lokanta açılmış.", "audioFileName": null },
+        { "text": "Buradaki yemekler sıradan değilmiş: makarna dans ediyormuş!", "audioFileName": null },
+        { "text": "Çorbalar şarkı söylüyor, tatlılar ışıldıyormuş.", "audioFileName": null },
+        { "text": "Çocuklar lokantaya gelince kahkahalarla eğleniyormuş.", "audioFileName": null },
+        { "text": "Herkes karnını doyurup mutlu anılarla eve dönüyormuş.", "audioFileName": null }
+      ]
+    },
+    {
+      "id": "tarcin-arkadaslar",
+      "title": "Tarçın ile En İyi Arkadaşları",
+      "author": "Nevin Avan Özdemir",
+      "coverImageName": "cover_tarcin",
+      "locale": "tr",
+      "summary": "Meraklı kedi Tarçın ve arkadaşlarının macerası.",
+      "pages": [
+        { "text": "Turuncu kedi Tarçın parkta oynamayı çok severmiş.", "audioFileName": null },
+        { "text": "Bir gün mavi bir kuş ve minik bir kaplumbağayla tanışmış.", "audioFileName": null },
+        { "text": "Üçü birlikte ormanda kaybolan oyuncağı aramaya çıkmış.", "audioFileName": null },
+        { "text": "Birlikte engelleri aşmış, çok eğlenmişler.", "audioFileName": null },
+        { "text": "Sonunda oyuncağı bulmuşlar ve piknik yaparak kutlamışlar.", "audioFileName": null }
+      ]
+    },
+    {
+      "id": "uyku-zamani",
+      "title": "Hayvanat Bahçesinde Uyku Zamanı",
+      "author": "Stella Baggott",
+      "coverImageName": "cover_uyku",
+      "locale": "tr",
+      "summary": "Hayvanlar sırayla uykuya hazırlanıyor.",
+      "pages": [
+        { "text": "Güneş batınca bahçede sessizlik başlamış.", "audioFileName": null },
+        { "text": "Aslan kocaman esnemiş, fil gözlerini kapamış.", "audioFileName": null },
+        { "text": "Kuşlar yuvalarına dönmüş, tavşanlar yuvarlanarak uyumuş.", "audioFileName": null },
+        { "text": "Zürafa başını ağaçların arasına yaslamış.", "audioFileName": null },
+        { "text": "Gece boyunca yıldızlar hayvanlara tatlı rüyalar göndermiş.", "audioFileName": null }
+      ]
+    },
+    {
+      "id": "hep-hayir",
+      "title": "Hep Hayır Diyen Çocuk",
+      "author": "Christine Nöstlinger",
+      "coverImageName": "cover_hephayir",
+      "locale": "tr",
+      "summary": "Her şeye 'hayır' diyen çocuğun değişimi.",
+      "pages": [
+        { "text": "Efe adında bir çocuk varmış. Ne sorulsa cevabı hep 'Hayır!' olurmuş.", "audioFileName": null },
+        { "text": "Bir gün arkadaşları onu parka çağırmış. Efe yine 'Hayır!' demiş.", "audioFileName": null },
+        { "text": "Ama yalnız kalınca çok sıkılmış.", "audioFileName": null },
+        { "text": "Bir dahaki sefere 'Evet!' demeyi denemiş.", "audioFileName": null },
+        { "text": "Paylaşmayı öğrenince Efe daha mutlu olmuş.", "audioFileName": null }
+      ]
+    },
+    {
+      "id": "cantamdan-fil",
+      "title": "Çantamdan Fil Çıktı",
+      "author": "Şermin Yaşar",
+      "coverImageName": "cover_cantam",
+      "locale": "tr",
+      "summary": "Bir çocuğun çantasından çıkan sürprizler.",
+      "pages": [
+        { "text": "Ali okulda çantasını açınca kalemler fırlamış.", "audioFileName": null },
+        { "text": "Ardından defterler ve oyuncaklar çıkmış.", "audioFileName": null },
+        { "text": "Bir anda minicik bir fil çantadan görünmüş!", "audioFileName": null },
+        { "text": "Ali önce şaşırmış, sonra çok sevinmiş.", "audioFileName": null },
+        { "text": "Artık çantasında bir sır vardı: en iyi arkadaşı minik fil.", "audioFileName": null }
+      ]
+    }
+  ]
+}
